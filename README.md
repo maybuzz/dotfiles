@@ -2,7 +2,9 @@
 
 Helaas stelt dit nog niet veel voor want ook deze opdracht is compleet chinees voor mij...
 
-Om deze reden zal ik hier maar wat leuke markdown toevoegen omdat dat eigenlijk het enige is dat ik wel heb begrepen deze week, hoop dat jullie dit kunnen waarderen :)
+Om deze reden zal ik hier maar wat leuke markdown toepassen omdat dat eigenlijk het enige is dat ik wel heb begrepen deze week, hoop dat jullie dit kunnen waarderen :)
+
+> Moet er dan ook bij zeggen dat de afgelopen week een overload aan informatie, talen en programma's is geweest en ik heel hard m'n best ga doen om bij te blijven.
 
 # Numbero uno
 
