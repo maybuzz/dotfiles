@@ -31,3 +31,9 @@ om me toch nog een beetje aan de huiswerkopdracht te houden (waar ik echt niet u
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+Zo | Weet | ik | nu
+--- |:---:|:---:| ---:
+hoe | ik | tabbelletjes | maak
+en | hoe | ik | tekst 
+centreer | binnen | de | tabel
