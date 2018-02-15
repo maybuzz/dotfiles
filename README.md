@@ -39,10 +39,11 @@ en | hoe | ik | tekst
 
 #### numbero quatro
 
-Jullie zullen nu wel denken **in de tijd dat je dit hebt gemaakt had je net zo goed je echte huiswerk kunnen doen** en misschien hebben jullie ook gelijk, maar ik kwam er niet uit en ik dacht laat ik in ieder geval iets doen. Ik kan in ieder geval zeggen dat ik
+Jullie zullen nu wel denken **in de tijd dat je dit hebt gemaakt had je net zo goed je echte huiswerk kunnen doen** en misschien hebben jullie gelijk, maar ik kwam er niet uit en ik dacht laat ik in ieder geval iets doen. 
+Ik kan in ieder geval zeggen dat ik
 
 * Weet hoe ik markdown gebruik
 * Een beetje weet hoe ik met GitHub moet werken
- * op de pull requests van vanmiddag na...
+  * op de pull requests van vanmiddag na...
 
 > Het is ook niet dat ik het huiswerk niet geprobeerd heb, ik kom alleen niet verder dan een alias aanmaken en m'n PS1 aan te passen... Ik snap ook niet helemaal in welke files ik mn aanpassingen moet doen zodat ze blijven.
