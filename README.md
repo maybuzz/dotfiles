@@ -1,30 +1,30 @@
-# may's dotfiles
+# May's dotfiles
 
-helaas stelt dit nog niet veel voor want ook deze opdracht is compleet chinees voor mij...
+Helaas stelt dit nog niet veel voor want ook deze opdracht is compleet chinees voor mij...
 
-om deze reden zal ik hier maar wat leuke markdown toevoegen omdat dat eigenlijk het enige is dat ik wel heb begrepen deze week, hoop dat jullie dit kunnen waarderen :)
+Om deze reden zal ik hier maar wat leuke markdown toevoegen omdat dat eigenlijk het enige is dat ik wel heb begrepen deze week, hoop dat jullie dit kunnen waarderen :)
 
-# numbero uno
+# Numbero uno
 
-**dikgedrukte tekst** is _veel leuker_ dan ~~Doorgestreepte~~ **tekst**
+**Dikgedrukte tekst** is _veel leuker_ dan ~~Doorgestreepte~~ **tekst** !
 
-## numbero duo
+## Numbero duo
 
-lijstjes kunnen ook van pas komen af en toe, bijvoorbeeld wanneer je;
+Lijstjes kunnen ook van pas komen af en toe, bijvoorbeeld wanneer je;
 
-* dingen op een rijtje wil hebben
-* of het gewoon leuk vind om
-* alles onder elkaar te zetten
-* zonder enig doel
+* Dingen op een rijtje wil hebben
+* Of het gewoon leuk vind om
+* Alles onder elkaar te zetten
+* Zonder enig doel
 
-1. of je zet ze gewoon netjes
-2. met cijfertjes onder elkaar
-3. zodat je stap voor stap kan laten zien
-4. dat je weet hoe je een lijstje maakt
+1. Of je zet ze gewoon netjes
+2. Met cijfertjes onder elkaar
+3. Zodat je stap voor stap kan laten zien
+4. Dat je weet hoe je een lijstje maakt
 
-### numbero trio
+### Numbero trio
 
-om me toch nog een beetje aan de huiswerkopdracht te houden (waar ik echt niet uitkomt, spijt me zeer) heb ik me wat meer verdiept in markdown. Zo weet ik nu hoe ik
+Om me toch nog een beetje aan de huiswerkopdracht te houden (waar ik echt niet uitkomt, spijt me zeer) heb ik me wat meer verdiept in markdown.
 
 Zo | Weet | ik | nu
 --- |:---|:---:| ---:
@@ -33,6 +33,16 @@ en | hoe | ik | tekst
 **centreer** | binnen | een | _tabel_
 1 | 2 | 3 | 4
 
-> stiekem heb ik vet afgekeken van deze [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "ff lachen, thanks adam")
+> Stiekem heb ik vet afgekeken van deze [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "ff lachen, thanks adam")
 
-> (_blijf ff met je muis op de link staan dan kan je lachen_)
+> (_Blijf ff met je muis op de link staan dan kan je lachen_)
+
+#### numbero quatro
+
+Jullie zullen nu wel denken **in de tijd dat je dit hebt gemaakt had je net zo goed je echte huiswerk kunnen doen** en misschien hebben jullie ook gelijk, maar ik kwam er niet uit en ik dacht laat ik in ieder geval iets doen. Ik kan in ieder geval zeggen dat ik
+
+* Weet hoe ik markdown gebruik
+* Een beetje weet hoe ik met GitHub moet werken
+ * op de pull requests van vanmiddag na...
+
+> Het is ook niet dat ik het huiswerk niet geprobeerd heb, ik kom alleen niet verder dan een alias aanmaken en m'n PS1 aan te passen... Ik snap ook niet helemaal in welke files ik mn aanpassingen moet doen zodat ze blijven.
