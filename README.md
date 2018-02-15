@@ -60,6 +60,6 @@ Als afsluiter nog een leuk plaatje;
 TO BE CONTINUED...
 
 <a href="http://www.youtube.com/watch?v=QtklrMxKww8feature=player_embedded&v=" target="_blank"><img src="https://dyd6vunh5w8vk.cloudfront.net/bonnerandpartners/uploads/2014/07/call-to-action-click-to-continue.png" 
-alt="CLICK TO CONTINUE" width="240" height="180" border="10" /></a>
+alt="CLICK TO CONTINUE" /></a>
 
-> Deze afbeelding heeft verborgen krachten, klik om te ontdekken watvoor magische krachten deze afbeelding heeft (**TIP:** _gebruik cmd+klik om deze geweldige pagina niet kwijt te raken_)
+> **TIP:** _gebruik cmd+klik om deze geweldige pagina niet kwijt te raken_
