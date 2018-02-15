@@ -59,6 +59,5 @@ Als afsluiter nog een leuk plaatje;
 
 To be continued...
 
-<a href="feature=player_embedded&v=https://www.youtube.com/watch?v=QtklrMxKww8
-" target="_blank"><img src="https://noplaceforsheep.files.wordpress.com/2012/06/to-be-continued.jpg?w=500" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=QtklrMxKww8" target="_blank"><img src="https://noplaceforsheep.files.wordpress.com/2012/06/to-be-continued.jpg?w=500" 
 alt="TO BE CONTINUED" width="240" height="180" border="10" /></a>
