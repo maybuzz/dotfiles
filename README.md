@@ -33,4 +33,5 @@ en | hoe | ik | tekst
 **centreer** | binnen | een | _tabel_
 1 | 2 | 3 | 4
 
-> stiekem heb ik vet afgekeken van deze [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "ff lachen, thanks adam") _blijf ff met je muis op de link staan dan kan je lachen_
+> stiekem heb ik vet afgekeken van deze [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "ff lachen, thanks adam") 
+> (_blijf ff met je muis op de link staan dan kan je lachen_)
