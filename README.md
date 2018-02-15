@@ -51,6 +51,14 @@ Ik kan in ieder geval zeggen dat ik
 
 > Het is ook niet dat ik het huiswerk niet geprobeerd heb, ik kom alleen niet verder dan een alias aanmaken en m'n PS1 aan te passen... Ik snap ook niet helemaal in welke files ik mn aanpassingen moet doen zodat ze blijven.
 
-Als afsluiter nog een leuk plaatje
+Als afsluiter nog een leuk plaatje;
 
-![please work](http://fcbk.su/_data/stickers/478376198960746/478376198960746_21.png "IT WORKS")
+![please work](http://fcbk.su/_data/stickers/478376198960746/478376198960746_21.png "IT WORKS!!!!")
+
+---
+
+To be continued...
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=QtklrMxKww8
+" target="_blank"><img src="https://noplaceforsheep.files.wordpress.com/2012/06/to-be-continued.jpg?w=500" 
+alt="TO BE CONTINUED" width="240" height="180" border="10" /></a>
