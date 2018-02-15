@@ -37,7 +37,7 @@ en | hoe | ik | tekst
 
 > Stiekem heb ik vet afgekeken van deze [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "ff lachen, thanks Adam :+")
 
-> (_Blijf ff met je muis op de link staan dan kan je lachen_)
+> (_Hover ff met je muis op de link staan dan kan je lachen_)
 
 #### Numbero quatro
 
@@ -46,7 +46,8 @@ Ik kan in ieder geval zeggen dat ik
 
 * Weet hoe ik markdown gebruik
 * Een beetje weet hoe ik met GitHub moet werken
-  * op de pull requests van vanmiddag na...
+  * Op de pull requests van vanmiddag na...
+    * Maar dat komt nog wel ;)
 
 > Het is ook niet dat ik het huiswerk niet geprobeerd heb, ik kom alleen niet verder dan een alias aanmaken en m'n PS1 aan te passen... Ik snap ook niet helemaal in welke files ik mn aanpassingen moet doen zodat ze blijven.
 
