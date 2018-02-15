@@ -31,4 +31,6 @@ Zo | Weet | ik | nu
 hoe | ik | `tabbelletjes` | maak
 en | hoe | ik | tekst 
 **centreer** | binnen | een | _tabel_
-`1` | 2 | `3` | 4
+1 | 2 | 3 | 4
+
+> stiekem heb ik vet afgekeken van deze [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Adam is mn held")
