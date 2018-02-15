@@ -28,7 +28,7 @@ om me toch nog een beetje aan de huiswerkopdracht te houden (waar ik echt niet u
 
 Zo | Weet | ik | nu
 :---: |:---|---:| :---:
-hoe | ik | **tabbelletjes** | maak
+hoe | ik | ~~tabbelletjes~~ | maak
 en | hoe | ik | tekst 
-~~centreer~~ | `binnen` | ee | _tabel_
-1 | 2 | 3 | 4
+**centreer** | `binnen` | een | _tabel_
+`1` | 2 | `3` | 4
