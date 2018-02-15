@@ -62,4 +62,4 @@ TO BE CONTINUED...
 <a href="http://www.youtube.com/watch?v=QtklrMxKww8feature=player_embedded&v=" target="_blank"><img src="https://noplaceforsheep.files.wordpress.com/2012/06/to-be-continued.jpg?w=500" 
 alt="TO BE CONTINUED" width="240" height="180" border="10" /></a>
 
-> Deze afbeelding heeft verborgen krachten, klik om te ontdekken watvoor magische krachten deze afbeelding heeft
+> Deze afbeelding heeft verborgen krachten, klik om te ontdekken watvoor magische krachten deze afbeelding heeft (**TIP:** _gebruik cmd+klik om deze geweldige pagina niet kwijt te raken_) en laat vooral een leuke reactie achter ;)
