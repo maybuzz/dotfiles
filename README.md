@@ -33,11 +33,11 @@ en | hoe | ik | tekst
 **centreer** | binnen | een | _tabel_
 1 | 2 | 3 | 4
 
-> Stiekem heb ik vet afgekeken van deze [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "ff lachen, thanks adam")
+> Stiekem heb ik vet afgekeken van deze [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "ff lachen, thanks Adam :+")
 
 > (_Blijf ff met je muis op de link staan dan kan je lachen_)
 
-#### numbero quatro
+#### Numbero quatro
 
 Jullie zullen nu wel denken **in de tijd dat je dit hebt gemaakt had je net zo goed je echte huiswerk kunnen doen** en misschien hebben jullie gelijk, maar ik kwam er niet uit en ik dacht laat ik in ieder geval iets doen. 
 Ik kan in ieder geval zeggen dat ik
@@ -47,3 +47,5 @@ Ik kan in ieder geval zeggen dat ik
   * op de pull requests van vanmiddag na...
 
 > Het is ook niet dat ik het huiswerk niet geprobeerd heb, ik kom alleen niet verder dan een alias aanmaken en m'n PS1 aan te passen... Ik snap ook niet helemaal in welke files ik mn aanpassingen moet doen zodat ze blijven.
+
+Verder ga ik me de rest van de week natuurlijk geheel storten op het stampen van Git en alle onmogelijke 
