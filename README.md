@@ -26,8 +26,8 @@ lijstjes kunnen ook van pas komen af en toe, bijvoorbeeld wanneer je;
 
 om me toch nog een beetje aan de huiswerkopdracht te houden (waar ik echt niet uitkomt, spijt me zeer) heb ik me wat meer verdiept in markdown. Zo weet ik nu hoe ik
 
-Zo | Weet | ik | nu
+**Zo | ~~Weet~~ | ik | nu**
 :---: |:---|---:| :---:
-hoe | ik | tabbelletjes | maak
+hoe | ik | **tabbelletjes** | maak
 en | hoe | ik | tekst 
-centreer | binnen | de | tabel
+~~centreer~~ | binnen | _de | tabel_
