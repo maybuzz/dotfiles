@@ -30,5 +30,5 @@ Zo | Weet | ik | nu
 :---: |:---|---:| :---:
 hoe | ik | **tabbelletjes** | maak
 en | hoe | ik | tekst 
-~~centreer~~ | 'binnen' | _de | tabel_
+~~centreer~~ | `binnen` | ee | _tabel_
 1 | 2 | 3 | 4
